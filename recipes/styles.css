@@ -1,0 +1,31 @@
+.title {
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+
+}
+div {
+    text-align: center;
+
+}
+.description {
+    font-size: 25px;
+}
+
+.ingredients {
+    font-size: 25px;
+
+}
+.ingredients .head {
+    font-weight: bold;
+    font-size: 50px;
+
+}
+.directions {
+    font-size: 25px;
+
+}
+.directions.head {
+    font-size: 28px;
+    font-weight: bold;
+}
